@@ -24,7 +24,6 @@ import Time "mo:base/Time";
 import Deque "mo:base/Deque";
 import Order "mo:base/Order";
 import Cycles "mo:base/ExperimentalCycles";
-import CyclesWallet "./sys/CyclesWallet";
 import Types "./lib/DRC20";
 import AID "./lib/AID";
 import Hex "./lib/Hex";

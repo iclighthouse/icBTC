@@ -1,10 +1,4 @@
 # icBTC
 
-Bitcoin cross-chains to IC network using chain-key (threshold signature) technology.
-
-## icBTC token
-icBTC.mo
-
-## icBTC Minter
-icBTCMinter.mo
-
+This repository is no longer maintained.
+Moved to: https://github.com/iclighthouse/icRouter/tree/main/cross-chain/btc
